@@ -18,4 +18,4 @@ A Windows Forms application built with Entity Framework for managing courses, st
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iti-course-management.git
+   git clone https://github.com/mohamedhw/EN-framwork-ITI-project.git
