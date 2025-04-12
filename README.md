@@ -8,7 +8,8 @@ A Windows Forms application built with Entity Framework for managing courses, st
   - Manage Departments, Courses, Students, Instructors, and Course Sessions.
   - Track student attendance and grades.
   - Many-to-Many relationships.
-- **Database Schema**: Based on the provided ER diagram (see [Schema Details](./schema.jpeg)).
+- **Database Schema**: Based on the provided ER diagram.
+![Alt Text](./schema.jpeg)
 
 ## 🛠️ Prerequisites
 - .NET Framework
